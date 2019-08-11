@@ -1,5 +1,5 @@
 # Space_Invaders
-Space Invaders - my competition to Chicken Invaders. Featuring fun GUI gameplay, increasing diffculty, and of course, Aliens. 
+Space Invaders - my competition to Chicken Invaders. Featuring fun GUI gameplay, increasing difficulty, and of course, Aliens. 
 
 Demonstrationg the power of OOP and OOD - using abstraction and modeling, I managed to easily buiild the magnificent Space Invaders
 using the SOLID structure of my Arkanoid game(see here: https://github.com/ShakedCohen/Arkanoid)
